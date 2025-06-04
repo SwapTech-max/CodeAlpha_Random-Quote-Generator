@@ -1,8 +1,9 @@
-<<<<<<< HEAD
 # 📜 Random Quote Generator App
 
 A simple and elegant Flutter application that displays a random inspirational quote every time the app is launched or when the "New Quote" button is clicked.
+
 ---
+
 ## 🎯 Task Details
 
 This project was developed as part of the **CodeAlpha App Development Internship** — **Task 2: Random Quote Generator**.
@@ -19,27 +20,27 @@ This project was developed as part of the **CodeAlpha App Development Internship
 
 | Home Screen | New Quote |
 |-------------|-----------|
-| ![screenshot1](assets\homescreen.jpg) | ![screenshot2](assets\quotescreen.jpg) |
-
+| ![screenshot1](assets/homescreen.jpg) | ![screenshot2](assets/quotescreen.jpg) |
 
 ---
 
 ## 🚀 Features
 
-- ✨ Minimal and clean UI
-- 🔁 Random quote on startup and button press
-- ✍️ Author names clearly shown
-- 📦 Built using Flutter for Android
+- ✨ Minimal and clean UI  
+- 🔁 Random quote on startup and button press  
+- ✍️ Author names clearly shown  
+- 📦 Built using Flutter for Android  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Flutter** (UI framework)
-- **Dart** (programming language)
-- `Random()` class (for quote selection)
+- **Flutter** (UI framework)  
+- **Dart** (programming language)  
+- `Random()` class (for quote selection)  
 
 ---
+
 ## 💼 Internship Credit
 
 **Intern:** Swapnil Pradhan  
@@ -52,13 +53,9 @@ This project was developed as part of the **CodeAlpha App Development Internship
 
 If you’d like to connect or collaborate:
 
-- 💼 [LinkedIn](www.linkedin.com/in/swapnil-pradhan-51094132b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/swapnil-pradhan-51094132b)  
 - 📧 swapnilpradhan0507@gmail.com
 
 ---
 
 > _Thank you for checking out this project! Feel free to fork or star if you found it helpful._
-
-=======
-# CodeAlpha_Random-Quote-Generator
->>>>>>> 1cf4ade38c2dc01dc6d9a42973c48cb60097827d
