@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📜 Random Quote Generator App
 
 A simple and elegant Flutter application that displays a random inspirational quote every time the app is launched or when the "New Quote" button is clicked.
@@ -58,3 +59,6 @@ If you’d like to connect or collaborate:
 
 > _Thank you for checking out this project! Feel free to fork or star if you found it helpful._
 
+=======
+# CodeAlpha_Random-Quote-Generator
+>>>>>>> 1cf4ade38c2dc01dc6d9a42973c48cb60097827d
